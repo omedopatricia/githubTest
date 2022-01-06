@@ -1,3 +1,4 @@
+#Write a python function to sum all the numbers in a list.
 def sumlist(*inputnum):
     #Create variables for the sum, avaerage and count of the list
     sumn = 0
