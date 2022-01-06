@@ -8,3 +8,11 @@ if ((sum <= 20) & (sum >= 15)):
     print("The sum is 20")
 else:
     print("The sum is ",sum)
+
+#Question 2
+#Write a Python program to find the median of three values. 
+x = 3
+y = 4
+z = 5
+
+
